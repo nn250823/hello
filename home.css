@@ -1,0 +1,21 @@
+header{
+  background-color: pink;
+  height: 20%;
+}
+nav{
+  background-color: orange;
+  height: 10%;
+}
+aside{
+  background-color: green;
+  width: 25%;
+  display: inline-block;
+}
+main{
+  background-color: cyan;
+  display: inline-block;
+}
+footer{
+  background-color: blue;
+  height: 20%;
+}
